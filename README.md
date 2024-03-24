@@ -14,3 +14,6 @@ Patika Java backend course assignments.
 ### Java102 "Kitap Sıralayıcı ve Fikstür Oluşturucu" Homeworks:
 - https://github.com/erkanoygun/JavaBackendCourse/tree/master/Book%20Sorter%20And%20Fixture%20Builder
 
+### Java102 "Patika Store" Homeworks:
+- https://github.com/erkanoygun/JavaBackendCourse/tree/master/PatikaStore
+
